@@ -1,4 +1,4 @@
-# 📚 SIAK-Mini (Tanpa Admin, 2 Sprint)
+# 📚 SIAK-Mini-255150200111020-Bilhaq
 
 Proyek Sistem Informasi Akademik Mini (SIAK-Mini) menggunakan **SCRUM** dalam 2 sprint.  
 Fokus: manajemen relasi Dosen ↔ Mahasiswa Bimbingan.
